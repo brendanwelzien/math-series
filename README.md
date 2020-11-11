@@ -1,4 +1,4 @@
-[Pull Request]()
+[Pull Request](https://github.com/brendanwelzien/math-series/pull/1)
 
 # Math-Series
 
